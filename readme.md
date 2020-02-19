@@ -3,8 +3,6 @@
 Está entrando na área de TI e quer dicas para chegar chegando?
 Essa lista pode te ajudar, mas acima de listas, mantenha o foco!
 
-Já é da área e quer colaborar? Abre uma issue, e vamos juntos!
-
 ## Rede social
 
 [LinkedIn](https://www.linkedin.com) - [Me segue](https://www.linkedin.com/in/melissatvsantana/)
