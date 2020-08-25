@@ -7,15 +7,15 @@ Essa lista pode te ajudar, mas acima de listas, mantenha o foco!
 
 [LinkedIn](https://www.linkedin.com) - [Me segue](https://www.linkedin.com/in/melissatvsantana/)
 
-## Comunidade Tech
+## Compartilhe & Colabore & Treine
 
 [Impulso](https://impulser.me/YDhfVl)
-
-## Compartilhe & Colabore
 
 [Stack Overflow em Português](https://pt.stackoverflow.com) - [Me segue](https://pt.stackoverflow.com/users/111325/melissa)
 
 [GitHub](https://github.com/) - [Me segue](https://github.com/melissatvs)
+
+[HackerRank](https://www.hackerrank.com/)
 
 ## Acelere sua carreira
 
@@ -23,7 +23,7 @@ Essa lista pode te ajudar, mas acima de listas, mantenha o foco!
 
 [RocketSeat](https://rocketseat.com.br/)
 
-## Personalidades para acompanhar
+## Acompanhe
 
 [PodProgramar](https://www.youtube.com/channel/UCxOC18vTj2-S36gzqfR_jlQ)
 
