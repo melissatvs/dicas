@@ -9,7 +9,7 @@ Essa lista pode te ajudar, mas acima de listas, mantenha o foco!
 
 ## Comunidade Tech
 
-[Eventos da Movile](https://www.sympla.com.br/movile)
+[Impulso](https://impulser.me/YDhfVl)
 
 ## Compartilhe & Colabore
 
@@ -19,9 +19,19 @@ Essa lista pode te ajudar, mas acima de listas, mantenha o foco!
 
 ## Acelere sua carreira
 
-[Codenation](https://www.codenation.dev)
+[Women Can Code](http://conteudo.sharerh.com/womencancodebrasil)
 
 [RocketSeat](https://rocketseat.com.br/)
+
+## Personalidades para acompanhar
+
+[PodProgramar](https://www.youtube.com/channel/UCxOC18vTj2-S36gzqfR_jlQ)
+
+[Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+
+[Código Fonte TV](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
+
+[Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA)
 
 ## Se informe
 
